@@ -1,4 +1,4 @@
-# Convert Model to TFLite Version
+# Weather Prediction Using TensorFlow
 
 This project provides a comprehensive guide to converting a machine learning model to the TensorFlow Lite (TFLite) format, enabling deployment on edge devices or resource-constrained environments. The Jupyter Notebook walks through the entire process, from model creation to TFLite conversion.
 
